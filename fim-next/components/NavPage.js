@@ -1,7 +1,7 @@
 import React from 'react';
-import {Navbar,  NavDropdown, Nav, Form, FormControl, Button  } from 'react-bootstrap';
+import {Navbar, NavDropdown, Nav, Form, FormControl, Button } from 'react-bootstrap';
 
-function NavPage() {
+export const NavPage = () => {
     return (
         <div>
             <Navbar bg="light" expand="lg">
@@ -28,5 +28,3 @@ function NavPage() {
         </div>
     )
 }
-
-export default NavPage
