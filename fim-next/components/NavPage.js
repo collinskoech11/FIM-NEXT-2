@@ -5,9 +5,9 @@ const NavPage = () => {
     return (
         <>
             <Navbar bg="primary" variant="dark">
-                <Navbar.Brand href="#home">Faith International Ministries</Navbar.Brand>
+                <Navbar.Brand href="/">Faith International Ministries</Navbar.Brand>
                 <Nav className="mr-auto">
-                <Nav.Link href="#home">Home</Nav.Link>
+                <Nav.Link href="/">Home</Nav.Link>
                 <Nav.Link href="#features">Live Service</Nav.Link>
                 <Dropdown>
                     <Dropdown.Toggle variant="primary" id="dropdown-basic">
