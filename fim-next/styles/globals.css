@@ -32,7 +32,7 @@ a {
 }
 
 #footer a:hover {
-  color: #FA944B;
+  color: red;
   text-decoration: none;
 }
 
