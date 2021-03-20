@@ -50,15 +50,15 @@ const FooterPage = () => {
                 </div>
                     <div className="col-md-3">
                         <h4>Follow Us</h4>
-                        <ul class="social-network social-circle">
-                        <li><a href="#" class="icoFacebook" title="Facebook"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="#" class="icoLinkedin" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
+                        <ul className="social-network social-circle">
+                        <li><a href="#" className="icoFacebook" title="Facebook"><i className="fa fa-facebook"></i></a></li>
+                        <li><a href="#" className="icoLinkedin" title="Linkedin"><i className="fa fa-linkedin"></i></a></li>
                         </ul>				
                     </div>
                 </div>
                 <div className="row">
-                    <div class="col-md-12 copy">
-                        <p class="text-center">&copy; Copyright 2018 - Company Name.  All rights reserved.</p>
+                    <div className="col-md-12 copy">
+                        <p className="text-center">&copy; Copyright 2018 - Company Name.  All rights reserved.</p>
                     </div>
                 </div>
 
