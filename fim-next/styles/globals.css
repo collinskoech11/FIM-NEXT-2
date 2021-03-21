@@ -24,7 +24,11 @@ a {
   color: white;
   margin-top:100px;
 }
-
+.head-color{
+  background: blue;
+  background: -webkit-linear-gradient(59deg, blue, teal);
+  background: linear-gradient(59deg, blue, teal);
+}
 #footer a {
   color: #fff;
   font-size: 14px;
