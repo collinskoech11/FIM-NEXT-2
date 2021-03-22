@@ -143,6 +143,10 @@ ul.social-network li {
 }
 .section .img-container{
   float:left;
+  height:100%;
+}
+.section .img-container img{
+  height:100%;
 }
 .section .text-container{
   float:left;
