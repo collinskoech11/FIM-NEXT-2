@@ -212,3 +212,6 @@ ul.social-network li {
     border-radius: 50px 40% 47px 37%;
   }
 }
+.row{
+  overflow-x:hidden;
+}

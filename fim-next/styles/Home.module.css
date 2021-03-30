@@ -235,3 +235,6 @@
 .text-area textarea.input-focus {
   border-color: #e14;
 }
+.row{
+  overflow-x:hidden;
+}
