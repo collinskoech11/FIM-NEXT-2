@@ -59,12 +59,12 @@ const NavPage = () => {
                 Satelite Branches
               </a>
             </Link>
-            <Link href='/'>
+            <Link href='/Contact'>
               <a className='lg:inline-flex lg:w-auto w-full px-3 py-2 rounded text-white font-bold items-center justify-center hover:bg-green-600 hover:text-white'>
                 Contact us
               </a>
             </Link>
-            <Link href='/'>
+            <Link href='/About'>
               <a className='lg:inline-flex lg:w-auto w-full px-3 py-2 rounded text-white font-bold items-center justify-center hover:bg-green-600 hover:text-white'>
                 About us
               </a>
