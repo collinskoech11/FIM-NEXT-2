@@ -1,4 +1,6 @@
 import React from "react";
+import NavPage from '../components/NavPage'
+import FooterPage from '../components/FooterPage'
 
 // reactstrap components
 import { FormGroup, Form , Input } from "reactstrap";
@@ -6,6 +8,7 @@ import { FormGroup, Form , Input } from "reactstrap";
 function Contact() {
   return (
     <>
+    <NavPage/>
       <Form>
         <FormGroup>
           <label className=" form-control-label" htmlFor="example-text-input">
@@ -144,6 +147,7 @@ function Contact() {
           ></Input>
         </FormGroup>
       </Form>
+      <FooterPage/>
     </>
   );
 }
