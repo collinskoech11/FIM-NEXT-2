@@ -42,16 +42,7 @@ function Contact() {
           ></Input>
         </FormGroup>
         
-        <FormGroup>
-          <label className=" form-control-label" htmlFor="example-number-input">
-            Number
-          </label>
-          <Input
-            defaultValue="23"
-            id="example-number-input"
-            type="number"
-          ></Input>
-        </FormGroup>
+        
         
         
        
