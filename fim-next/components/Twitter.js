@@ -4,7 +4,7 @@ const Twitter = () => {
     return (
         <div>
             <div className="tweetContainer">
-                <a class="twitter-timeline" data-theme="dark" href="https://twitter.com/itsKenyanCoko?ref_src=twsrc%5Etfw">Tweets by itsKenyanCoko</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                <a class="twitter-timeline" data-theme="light" href="https://twitter.com/FaithMinistry2?ref_src=twsrc%5Etfw">Tweets by FaithMinistry2</a> <script async src="https://platform.twitter.com/widgets.js" charSet="utf-8"></script>
             </div>
         </div>
     )
