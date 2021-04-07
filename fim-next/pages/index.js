@@ -5,6 +5,7 @@ import CarouselPage from '../components/CarouselPage'
 import FooterPage from '../components/FooterPage'
 import LiveLink from '../components/LiveLink'
 import Twitter from '../components/Twitter'
+import Upcoming from '../components/Upcoming'
 
 export default function Home() {
   return (
@@ -48,6 +49,9 @@ export default function Home() {
       </div>
       <div className="section">
         <Twitter/>
+      </div>
+      <div className="section">
+        <Upcoming/>
       </div>
       <FooterPage/>
     </>
