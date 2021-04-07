@@ -4,6 +4,7 @@ import NavPage from '../components/NavPage'
 import CarouselPage from '../components/CarouselPage'
 import FooterPage from '../components/FooterPage'
 import LiveLink from '../components/LiveLink'
+import Twitter from '../components/Twitter'
 
 export default function Home() {
   return (
@@ -44,6 +45,9 @@ export default function Home() {
             <h2>Mr Stanley Cheruiyot</h2>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis magnam, aliquid mollitia blanditiis laborum ratione fuga rerum natus consequuntur reprehenderit quasi nihil voluptatum, a sed ut aliquam commodi ipsa modi.
           </div>
+      </div>
+      <div className="section">
+        <Twitter/>
       </div>
       <FooterPage/>
     </>
