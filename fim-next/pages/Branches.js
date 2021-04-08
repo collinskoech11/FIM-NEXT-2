@@ -1,16 +1,15 @@
-import React from 'react'
-
+import React from 'react';
 import NavPage from '../components/NavPage'
 import FooterPage from '../components/FooterPage'
 
-const About = () => {
+const Branches = () => {
     return (
         <>
             <NavPage/>
-                <h1>This is the About Page</h1>
-            <FooterPage/> 
+                <h1>This is the branches page</h1>
+            <FooterPage/>
         </>
     )
 }
 
-export default About
+export default Branches

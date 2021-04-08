@@ -8,11 +8,6 @@ const LiveService = () => {
         <div>
             <NavPage/>
             <div className="row">
-
-
-                
-
-
                 <div className="col-lg-6" style={{marginBottom:'20px'}}>
                     <div className="col-lg-6 col-md-6">
                     
