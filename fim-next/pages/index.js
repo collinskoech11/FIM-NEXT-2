@@ -27,7 +27,7 @@ export default function Home() {
           <div className="text-container">
             <h3>Word from our spiritual Father</h3>
             <h2>Bishop Jimmy Bett</h2>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis magnam, aliquid mollitia blanditiis laborum ratione fuga rerum natus consequuntur reprehenderit quasi nihil voluptatum, a sed ut aliquam commodi ipsa modi.
+            To make and deploy mature and equipped followers of Christ for the sake of Family, Community and Global Transformation. At Gateway, we are committed to helping every person believe in Jesus, belong to a family, become a disciple and build His kingdom.
           </div>
       </div>
       <div className="section">
@@ -44,7 +44,8 @@ export default function Home() {
           <div className="text-container">
             <h3>Our chairperson shares the vision of our church</h3>
             <h2>Mr Stanley Cheruiyot</h2>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis magnam, aliquid mollitia blanditiis laborum ratione fuga rerum natus consequuntur reprehenderit quasi nihil voluptatum, a sed ut aliquam commodi ipsa modi.
+            To welcome the community with open arms. To train an army of people who are passionate about living out God’s purpose for their lives. To then give that army an outlet for sharing the love of Christ through outreach and missions.
+            We believe everyone needs the hope Jesus offers, so our passion is to help people find that hope and grow in a relationship with Him. We emphasize grace and acceptance, as we help people understand who Jesus is and how to take the next right step in their journey of faith
           </div>
       </div>
       <div className="section">
