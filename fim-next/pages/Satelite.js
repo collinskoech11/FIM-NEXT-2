@@ -6,6 +6,7 @@ const Satelite = () => {
     return (
         <>
         <NavPage/>
+        <div className="row">
         <Card bg="primary" text="white" style={{ width: '18rem' }}>
         <Card.Header>Header</Card.Header>
         <Card.Body>
@@ -53,7 +54,8 @@ const Satelite = () => {
         </Card.Body>
       </Card>
       <br />
-    
+      </div>
+      <div className="row">
       <Card bg="warning" text="white" style={{ width: '18rem' }}>
         <Card.Header>Header</Card.Header>
         <Card.Body>
@@ -100,7 +102,20 @@ const Satelite = () => {
           </Card.Text>
         </Card.Body>
       </Card>
-      <br /></>
+        <br/>
+        <Card bg="light" style={{ width: '18rem' }}>
+        <Card.Header>Header</Card.Header>
+        <Card.Body>
+          <Card.Title>Light Card Title</Card.Title>
+          <Card.Text>
+            Some quick example text to build on the card title and make up the bulk
+            of the card's content.
+          </Card.Text>
+        </Card.Body>
+      </Card>
+      </div>
+      
+      </>
     )
 }
 
