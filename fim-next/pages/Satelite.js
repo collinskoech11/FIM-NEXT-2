@@ -1,8 +1,12 @@
-import React from 'react'
+import React from 'react';
+import {Card} from 'react-bootstrap';
+import NavPage from '../components/NavPage'
 
 const Satelite = () => {
     return (
-        <><Card bg="primary" text="white" style={{ width: '18rem' }}>
+        <>
+        <NavPage/>
+        <Card bg="primary" text="white" style={{ width: '18rem' }}>
         <Card.Header>Header</Card.Header>
         <Card.Body>
           <Card.Title>Primary Card Title</Card.Title>
