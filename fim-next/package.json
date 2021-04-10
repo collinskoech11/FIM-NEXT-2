@@ -4,7 +4,9 @@
   "private": true,
   
   "scripts": {
-    "dev": "next dev",
+    "dev": "npm run dev:client & npm run dev:server",
+    "dev:client": "next src/client",
+    "dev:server": "babel src/server --out-dir dist/server --source-maps --watch",
     "build": "next build",
     "start": "next start",
     "build:css": "postcss styles/tailwind.css -o styles/main.css",
