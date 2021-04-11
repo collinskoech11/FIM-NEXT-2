@@ -1,6 +1,7 @@
 {
   "hosting": {
     "public": "public",
+    "runtime": "nodejs12",
     "rewrites": [
       {
         "source": "**/**",
